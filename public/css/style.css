@@ -1,0 +1,7 @@
+body {
+  background-image: url('../img/news_stack.jpg');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 100%;
+}
